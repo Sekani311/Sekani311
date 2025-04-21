@@ -12,7 +12,7 @@
 
 ### 👋🏾 About Me
 
-I'm **Igwe Precious**, passionate about transforming public services through **data, transport innovation, and storytelling**.
+I'm **Precious Igwe**, passionate about transforming public services through **data, transport innovation, and storytelling**.
 
 - 💼 Working in the public sector — supporting Delta State's journey into **clean energy & smarter mobility**
 - 📊 Merging policy insights with SQL, Notion, Power BI & storytelling
