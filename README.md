@@ -41,5 +41,6 @@ I'm **Igwe Precious**, passionate about transforming public services through **d
 
 <p align="left">
   <a href="https://linkedin.com/in/preciousigwe"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://medium.com/@_precious"><img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" /></a>
   <a href="https://twitter.com/air_dss"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
 </p>
